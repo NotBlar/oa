@@ -10,5 +10,8 @@ kkkkkkkkkkkkkkk
 我就这么写
 帮你该好了
 ok ,i get that.
+<<<<<<< HEAD
 Not do that,ok?
 yes!!
+what do you want to do
+
